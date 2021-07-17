@@ -2,20 +2,16 @@
 
 <h2>Ei, você ai! 👋 </h2>
 
-<p align="center">
-<details> <p align="center">
+
+<details>
 	<summary> <b> Algumas informações sobre mim! </b> <i>(Clique aqui!)</i> </summary>
-<br>
-Esse é o Nig, o melhor gato da área de Infra, só tocar no meu not que descongura td, rapidinho! Mas esse não é o motivo para eu estar aqui...
+<br/>
+<p> Esse é o Nig, o melhor gato da área de Infra, só tocar no meu not que desconfigura td, rapidinho! Mas esse não é o motivo para eu estar aqui...</p>
+<p> Por muito tempo imaginei que não era feita para programar, e por isso, fui boa em muitas outras coisas. Mas quando o amor chama, pega de jeito, não tem como fugir!</p>
+<p>Agora sou Desenvolvedora Full Stack Java Jr., com preferência em back-end e possuo proximidade com banco de dados MySQL. Já tive acesso a outras linguagens como HTML, JavaScript e CSS.</p>
+<p>Amo aprender e a sensação boa que isso trás junto, pesquisar técnicas e documentações! Sou entusiasta por fuçar.</p>
 
-Por muito tempo imaginei que não era feita para programar, e por isso, fui boa em muitas outras coisas. Mas quando o amor chama, pega de jeito, não tem como fugir!
-	
-Agora sou Desenvolvedora Full Stack Java Jr., com preferência em back-end e possuo proximidade com banco de dados MySQL. Já tive acesso a outras linguagens como HTML, JavaScript e CSS.
-
-Amo aprender e a sensação boa que isso trás junto, pesquisar técnicas e documentações! Sou entusiasta por fuçar.
-<br>
-<br>
-	</p> </details> </p>
+ </details>
 
 <a><img src="https://media.giphy.com/media/ktPDzGEpxWGxW/giphy.gif" width="160px"><a>  <a><img src="https://media.giphy.com/media/SSVSMrHmbfucc9CKGg/giphy.gif" width="180px"><a>
 	
