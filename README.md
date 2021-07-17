@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Brito-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perfil-amandabrito/)](https://www.linkedin.com/in/perfil-amandabrito/) 
 
-<h2>Oi, você ai! 👋 </h2>
+<h2>Ei, você ai! 👋 </h2>
 
 <p align="center">
 <details> <p align="center">
