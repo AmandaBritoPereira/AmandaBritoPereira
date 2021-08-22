@@ -1,8 +1,7 @@
-<h2>Ei! Fique a vontade <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h2> 
+[![Linkedin Badge](https://img.shields.io/badge/-Profissional,%20ideias%20&%20papo%20aberto-007dbb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perfil-amandabrito/)](https://www.linkedin.com/in/perfil-amandabrito/)
 
 <p>Repositório base para portifólio: possui atividades práticas (exercícios) e projetos pessoais em desenvolvimento.</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Profissional,%20ideias%20&%20papo%20aberto-007dbb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/perfil-amandabrito/)](https://www.linkedin.com/in/perfil-amandabrito/)
 <details>
 	<summary> <b> Minha alma </b> <i>(Clique aqui)</i> </summary>
 <br/>	
@@ -27,3 +26,5 @@
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/AmandaBritoPereira/count.svg" /></p>
 <p align="center">
+	
+<h2>Ei! Fique a vontade <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h2> 
