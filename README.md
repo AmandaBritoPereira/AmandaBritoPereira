@@ -5,7 +5,7 @@
 <details>
 	<summary> <b> Minha alma </b> <i>(Clique aqui)</i> </summary>
 <br/>	
-<p> Sou uma Desenvolvedora Full Stack Java Jr., e...? Eu pergunto muito, penso no porque e como as coisas funcionam, corro atrás de repertório, pra um dia quando eu precisar, saber saber debugar ✔ o erro e conseguir agregar valor. </p>
+<p> Sou uma Desenvolvedora Full Stack Java Jr., e...? Eu pergunto muito, penso nos porques e em como as coisas funcionam, corro atrás de repertório, pra um dia quando eu precisar, saber debugar ✔ o erro e conseguir agregar valor. </p>
 <p> Amo aprender 📚 e a sensação boa que isso trás junto, pesquisar técnicas e documentações! ❤ Sou entusiasta por fuçar. </p>
 <p> Tenho preferência em back-end 💻 e possuo proximidade com banco de dados MySQL. Já tive acesso a outras linguagens como HTML, JavaScript e CSS.</p>
 	<p></p>
